@@ -1,6 +1,5 @@
 # Minitalk
 
-## Description
 Minitalk is a small client-server program written in C that allows two processes to communicate with each other using signals.
 
 ## How to Use
